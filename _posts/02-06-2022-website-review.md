@@ -8,13 +8,13 @@ Project URL: https://booth.lse.ac.uk/
 
 ![Home Page](https://longdavis5.github.io/Davis-Long/images/cbooth1.png)
 
-Website Summary
+**Website Summary**
 
 The website Charles Booth’s London is a digital archive dedicated to the social reformer Charles Booth. In the late 19th and early 20th century, Charles Booth wrote entries into his notebook recounting what life was like for the working class of London, which he then turned those entries into a book he named Inquiry into Life and Labor in London. The many entries he wrote over the years were integral for future historians wanting to paint a picture of what life was like in London during the late 19th century. These entries include information on the social and economic climate of London, along with poverty maps which showed the levels of poverty and wealth of people living in London.
 
 The website incorporates the historical aspects and blends it in with modern-day technology in order to present their information. By offering the most visual representation of life in London during the late 19th century, this website is an immensely important resource for people wanting to learn more about the time period
 
-Website Design
+**Website Design**
 
 It is a very user-friendly website and contains four different sections for viewers to choose from, “Maps”, “Notebooks”, “Highlights”, and “Learn More. All of these sections include information on different aspects of Charles Booth and London and some include further subsections inside.
      
@@ -27,7 +27,7 @@ Highlights is the third section of the website and contains accounts of street l
      
 Section four, Learn More, provides supplement background information on who Charles Booth was, what the book he wrote was, and information on the poverty maps and how to analyze them. This section is the most beneficial for people who are on this website and have no idea what they are looking at, allowing them to read a brief synopsis of the website’s purpose.
      
-Findings
+**Findings**
 
 Because the website is so straightforward and user-friendly, it can easily be accessed by people with even the slightest level of technological skill. What I think is an important but underrated aspect of websites, is putting the sections in big, bold letters, letting viewers easily find what they are looking for, which is what this website does very well. Further, placing subsections inside the sections themselves is a fantastic idea as it allows people visiting the website to click and find specifically what they need, without having to read through paragraphs of text. Within minutes of accessing the website and clicking on different sections, I already felt comfortable and never felt lost. 
      
