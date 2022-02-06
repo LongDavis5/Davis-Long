@@ -18,7 +18,7 @@ Website Design
      It is a very user-friendly website and contains four different sections for viewers to choose from, “Maps”, “Notebooks”, “Highlights”, and “Learn More. All of these sections include information on different aspects of Charles Booth and London and some include further subsections inside.
      
      The first of the four sections is the maps, which is possibly the most important section on the website. This section allows viewers to get a direct view of London during the late 19th century, showing off the poverty and wealth levels of each street in London. Adding to this, the website also lets you compare the old London map to modern day London, allowing you to see the differences over the years.
-![Home Page](https://longdavis5.github.io/Davis-Long/images/cbooth2.png)
+![Maps](https://longdavis5.github.io/Davis-Long/images/cbooth2.png)
      
      The second section, notebooks, by far contains the bulk of information on the website. This section includes all of the entries Booth wrote into his notebook over the years, resulting in a wide array of information about religion, work industry, and the police force. These entries provide an accurate image of the living conditions and society during the time.
      
